@@ -1,0 +1,17 @@
+
+Ejercicio: Clase Rectangulo.
+
+Descripcion:
+
+    Cree una clase Rectangulo con atributos base y altura. 
+    Implemente métodos para calcular el área y perímetro.
+
+Stack a utilizar:
+
+    -Lenguaje c++
+    -Editor de texto VS Code / o IDE de preferencia compatible con c++.
+
+Notas adicionales:
+
+    Trabajar la estructura del proyecto en offline (.h / .cpp)
+    Tener buena organizacion de los archivos (cabeceras, fuente)

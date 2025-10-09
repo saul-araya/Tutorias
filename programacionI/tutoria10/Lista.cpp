@@ -23,7 +23,7 @@ void Lista::agregarNodoFinal(Producto* valor){
     actual->setSiguiente(newNodo);
 }
     
-bool  Lista::compararaListas(Lista* l2){
+bool Lista::compararaListas(Lista* l2){
     Nodo* actualCurrent = this->head;
     Nodo* actualL2 = l2->getHead();
     bool flag = false;
